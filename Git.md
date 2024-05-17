@@ -8,7 +8,7 @@
 
 `git pull`
 
-`git checkout -b newBranch`
+`git checkout -b newBranch` or `git checkout existingBranch`
 
 [make the changes]
 
